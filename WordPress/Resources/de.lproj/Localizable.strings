@@ -8336,7 +8336,7 @@ translators: %s: Select control option value e.g: \"Auto, 25%\". */
 "Use icon button" = "Icon-Button verwenden";
 
 /* Footer text for Invite Links section of the Invite People screen. */
-"Use this link to onboard your team members without having to invite them one by one. Anybody visiting this URL will be able to sign up to your organization, even if they received the link from somebody else, so make sure that you share it with trusted peo" = "Verwende diesen Link, um deine Teammitglieder einzuladen. Jeder, der diese URL besucht, kann sich bei deiner Organisation registrieren, auch wenn er oder sie den Link von jemand anderem erhalten hat. Teile ihn also nur mit vertrauenswürdigen Personen.";
+"invite_people_invite_link_footer" = "Verwende diesen Link, um deine Teammitglieder einzuladen. Jeder, der diese URL besucht, kann sich bei deiner Organisation registrieren, auch wenn er oder sie den Link von jemand anderem erhalten hat. Teile ihn also nur mit vertrauenswürdigen Personen.";
 
 /* No comment provided by engineer. */
 "Use this site" = "Diese Website verwenden";

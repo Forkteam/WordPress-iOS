@@ -8348,7 +8348,7 @@ translators: %s: Select control option value e.g: \"Auto, 25%\". */
 "Use icon button" = "Folosește butonul icon";
 
 /* Footer text for Invite Links section of the Invite People screen. */
-"Use this link to onboard your team members without having to invite them one by one. Anybody visiting this URL will be able to sign up to your organization, even if they received the link from somebody else, so make sure that you share it with trusted peo" = "Folosește această legătură pentru a mării numărul de membri din echipa ta fără a fi nevoie să-i inviți individual. Oricine vizitează acest URL va putea să se înscrie în organizația ta, chiar dacă a primit o invitație de la altcineva, deci asigură-te că partajezi legătura cu persoane de încredere.";
+"invite_people_invite_link_footer" = "Folosește această legătură pentru a mării numărul de membri din echipa ta fără a fi nevoie să-i inviți individual. Oricine vizitează acest URL va putea să se înscrie în organizația ta, chiar dacă a primit o invitație de la altcineva, deci asigură-te că partajezi legătura cu persoane de încredere.";
 
 /* No comment provided by engineer. */
 "Use this site" = "Folosește acest site";

@@ -8345,7 +8345,7 @@ translators: %s: Select control option value e.g: \"Auto, 25%\". */
 "Use icon button" = "הכפתור 'להשתמש בסמל'";
 
 /* Footer text for Invite Links section of the Invite People screen. */
-"Use this link to onboard your team members without having to invite them one by one. Anybody visiting this URL will be able to sign up to your organization, even if they received the link from somebody else, so make sure that you share it with trusted peo" = "ניתן להשתמש בקישור זה כדי להזמין את כל חברי הצוות שלך במקביל, במקום לשלוח הזמנות אישיות. לכל אדם שמבקר בכתובת ה-URL הזאת תהיה אפשרות להירשם לארגון שלך, גם אם הוא מקבל את הקישור מאדם אחר ולכן, חשוב לוודא שהקישור נשלח לאנשים מהימנים בלבד.";
+"invite_people_invite_link_footer" = "ניתן להשתמש בקישור זה כדי להזמין את כל חברי הצוות שלך במקביל, במקום לשלוח הזמנות אישיות. לכל אדם שמבקר בכתובת ה-URL הזאת תהיה אפשרות להירשם לארגון שלך, גם אם הוא מקבל את הקישור מאדם אחר ולכן, חשוב לוודא שהקישור נשלח לאנשים מהימנים בלבד.";
 
 /* No comment provided by engineer. */
 "Use this site" = "שימוש באתר זה";

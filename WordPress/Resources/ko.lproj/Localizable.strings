@@ -8329,7 +8329,7 @@ translators: %s: Select control option value e.g: \"Auto, 25%\". */
 "Use icon button" = "아이콘 버튼 사용";
 
 /* Footer text for Invite Links section of the Invite People screen. */
-"Use this link to onboard your team members without having to invite them one by one. Anybody visiting this URL will be able to sign up to your organization, even if they received the link from somebody else, so make sure that you share it with trusted peo" = "이 링크를 활용하면 일일이 한 명씩 초대하지 않아도 여러 팀원이 팀에 참여할 수 있게 됩니다. 이 URL을 방문하는 사람은 누구나 조직에 가입할 수 있습니다. 다른 사람을 통해서 이 링크를 전달받은 사람도 가입할 수 있기 때문에 신뢰할 수 있는 사람에게만 공유하세요.";
+"invite_people_invite_link_footer" = "이 링크를 활용하면 일일이 한 명씩 초대하지 않아도 여러 팀원이 팀에 참여할 수 있게 됩니다. 이 URL을 방문하는 사람은 누구나 조직에 가입할 수 있습니다. 다른 사람을 통해서 이 링크를 전달받은 사람도 가입할 수 있기 때문에 신뢰할 수 있는 사람에게만 공유하세요.";
 
 /* No comment provided by engineer. */
 "Use this site" = "이 사이트 사용";
