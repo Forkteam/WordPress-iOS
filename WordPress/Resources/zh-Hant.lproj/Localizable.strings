@@ -8307,7 +8307,7 @@ translators: %s: Select control option value e.g: \"Auto, 25%\". */
 "Use icon button" = "使用圖示按鈕";
 
 /* Footer text for Invite Links section of the Invite People screen. */
-"invite_people_invite_link_footer" = "你可以使用此連結一次加入所有團隊成員，無須逐一邀請。 凡是造訪這個 URL 的人，不論以何種方式取得連結，都可以註冊加入貴機構，因此分享網址前，請確認對方值得信任。";
+"Use this link to onboard your team members without having to invite them one by one. Anybody visiting this URL will be able to sign up to your organization, even if they received the link from somebody else, so make sure that you share it with trusted peo" = "你可以使用此連結一次加入所有團隊成員，無須逐一邀請。 凡是造訪這個 URL 的人，不論以何種方式取得連結，都可以註冊加入貴機構，因此分享網址前，請確認對方值得信任。";
 
 /* No comment provided by engineer. */
 "Use this site" = "使用此網站";

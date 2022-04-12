@@ -8345,7 +8345,7 @@ translators: %s: Select control option value e.g: \"Auto, 25%\". */
 "Use icon button" = "Použijte ikonu tlačítka";
 
 /* Footer text for Invite Links section of the Invite People screen. */
-"invite_people_invite_link_footer" = "Pomocí tohoto odkazu můžete připojit členy svého týmu, aniž byste je museli pozvat jeden po druhém. Kdokoli, kdo navštíví tuto adresu URL, se bude moci zaregistrovat do vaší organizace, i když obdržel odkaz od někoho jiného, takže se ujistěte, že jej sdílíte s důvěryhodnými lidmi.";
+"Use this link to onboard your team members without having to invite them one by one. Anybody visiting this URL will be able to sign up to your organization, even if they received the link from somebody else, so make sure that you share it with trusted peo" = "Pomocí tohoto odkazu můžete připojit členy svého týmu, aniž byste je museli pozvat jeden po druhém. Kdokoli, kdo navštíví tuto adresu URL, se bude moci zaregistrovat do vaší organizace, i když obdržel odkaz od někoho jiného, takže se ujistěte, že jej sdílíte s důvěryhodnými lidmi.";
 
 /* No comment provided by engineer. */
 "Use this site" = "Vybrat tuto stránku";

@@ -8327,7 +8327,7 @@ translators: %s: Select control option value e.g: \"Auto, 25%\". */
 "Use icon button" = "Përdor buton ikone";
 
 /* Footer text for Invite Links section of the Invite People screen. */
-"invite_people_invite_link_footer" = "Përdoreni këtë lidhje për hapat e mirëseardhjes për anëtarët e ekipit tuaj, pa u dashur t’i ftoni tek e tek. Gjithkush që viziton këtë URL, do të jetë në gjendje të regjistrohet në entin tuaj, madje edhe nëse lidhjen e marrin nga dikush tjetër, ndaj sigurohuni se ua jepni personave të besuar.";
+"Use this link to onboard your team members without having to invite them one by one. Anybody visiting this URL will be able to sign up to your organization, even if they received the link from somebody else, so make sure that you share it with trusted peo" = "Përdoreni këtë lidhje për hapat e mirëseardhjes për anëtarët e ekipit tuaj, pa u dashur t’i ftoni tek e tek. Gjithkush që viziton këtë URL, do të jetë në gjendje të regjistrohet në entin tuaj, madje edhe nëse lidhjen e marrin nga dikush tjetër, ndaj sigurohuni se ua jepni personave të besuar.";
 
 /* No comment provided by engineer. */
 "Use this site" = "Përdor këtë sajt";
