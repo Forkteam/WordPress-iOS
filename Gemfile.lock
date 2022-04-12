@@ -1,7 +1,7 @@
 GIT
   remote: git@github.com:wordpress-mobile/release-toolkit
-  revision: 9b9fab26452e93042016e5fc7bb3311aca85ae10
-  branch: fix-ios-linter
+  revision: daba04d8dba4e02874bca627a617f99142239ad8
+  branch: trunk
   specs:
     fastlane-plugin-wpmreleasetoolkit (4.0.0)
       activesupport (~> 5)
