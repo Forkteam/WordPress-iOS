@@ -28,6 +28,10 @@ class LikeUserHelperTests: XCTestCase {
         return remoteUserDictionary
     }
 
+    override func setUp() {
+        ContextManager.overrideSharedInstance(nil)
+    }
+
     func testNewLikeUserWithPreferredBlog() {
         let completionExpectation = expectation(description: "We expect the context to save successfully")
         let contextManager = TestContextManager()
